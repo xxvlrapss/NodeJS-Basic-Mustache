@@ -27,7 +27,7 @@
       "!vendor/**/*.{js,jsx}"
     ]
   },
-  "author": "Eko Kurniawan Khannedy",
+  "author": "Dimas Prayoga",
   "license": "ISC",
   "dependencies": {
     "mustache": "^4.2.0"
